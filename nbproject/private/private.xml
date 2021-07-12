@@ -12,15 +12,7 @@
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/fbrcm/Documents/NetBeansProjects/Rappidinho2/src/java/DAO/EntregaDAO.java</file>
-            <file>file:/C:/Users/fbrcm/Documents/NetBeansProjects/Rappidinho2/src/java/controller/pessoa/LogarPessoa.java</file>
-            <file>file:/C:/Users/fbrcm/Documents/NetBeansProjects/Rappidinho2/src/java/model/Pedido.java</file>
-            <file>file:/C:/Users/fbrcm/Documents/NetBeansProjects/Rappidinho2/src/java/DAO/PedidoDAO.java</file>
-            <file>file:/C:/Users/fbrcm/Documents/NetBeansProjects/Rappidinho2/src/java/controller/entrega/CadastrarEntrega.java</file>
-            <file>file:/C:/Users/fbrcm/Documents/NetBeansProjects/Rappidinho2/web/cadastros/entrega/cadastrarEntrega.jsp</file>
-            <file>file:/C:/Users/fbrcm/Documents/NetBeansProjects/Rappidinho2/src/java/model/Entrega.java</file>
-            <file>file:/C:/Users/fbrcm/Documents/NetBeansProjects/Rappidinho2/web/cadastros/entrega/listarEntrega.jsp</file>
-            <file>file:/C:/Users/fbrcm/Documents/NetBeansProjects/Rappidinho2/src/java/controller/entrega/ListarEntrega.java</file>
+            <file>file:/C:/Users/fbrcm/Documents/NetBeansProjects/Rappidinho2/src/java/utils/ConnectionFactory.java</file>
         </group>
     </open-files>
 </project-private>

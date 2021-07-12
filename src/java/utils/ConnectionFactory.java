@@ -22,7 +22,7 @@ public class ConnectionFactory {
         } catch(Exception ex){
             throw new Exception(ex.getMessage());
         }
-    }
+     }
     
     public static void closeConnection(Connection conn, Statement stmt, ResultSet rs) throws Exception{
         close(conn, stmt, rs);
